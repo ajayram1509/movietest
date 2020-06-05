@@ -1,6 +1,6 @@
 asgiref==3.2.3
 cffi==1.13.2
-Django==3.0.2
+Django==3.0.7
 django-nose==1.4.6
 djangorestframework==3.11.0
 djangorestframework-jwt==1.11.0
